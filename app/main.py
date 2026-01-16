@@ -6,7 +6,6 @@ from app import crud, models, schemas, auth
 from app.database import SessionLocal, engine
 from fastapi.security import OAuth2PasswordRequestForm
 
-models.Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
 
