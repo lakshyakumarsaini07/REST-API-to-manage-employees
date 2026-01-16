@@ -26,7 +26,7 @@ A robust REST API built with FastAPI for managing employee data in a company. Th
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/employee-management-api.git
+   git clone https://github.com/lakshyakumarsaini07/REST-API-to-manage-employees.git
    cd employee-management-api
    ```
 
